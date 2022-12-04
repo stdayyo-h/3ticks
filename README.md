@@ -10,16 +10,14 @@
 [1.Fathima Nooha](https://github.com/nooha01)   
 [2.Ashwin Binu Abraham](https://github.com/4Ashwin)
 [3.Angath J R](https://github.com/angathjr)
-  
-## How it Works ?
-
-* The tickets if are to be sold are put up in the nft market.
-* They can never be sold at a higher price than it recieves 
 
 ## Embedded video of project demo
+[Watch the demo here](https://drive.google.com/file/d/1M7wMc0EvGfIJACXb5AmfHEmjwcuJJYgq/view?usp=share_link)
+
 
 ## Technologies used
 * Frontend - React
 * Web3.storage
 
 ## Other Links
+[1.Presentation](https://www.canva.com/design/DAFTwSn8BvE/tI_cw78tTEIg-BebB0llbA/view?utm_content=DAFTwSn8BvE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
